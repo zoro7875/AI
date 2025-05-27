@@ -1,1 +1,87 @@
 https://github.com/PushkarrajPujari/devopslabs.git
+Viva Questions 
+________________
+
+1. Git
+
+What is Git and why is it used?
+
+How do you initialize a Git repository?
+
+What is the difference between git add, git commit, and git push?
+
+What does git status show?
+
+How can you view the commit history?
+
+What is a merge conflict and how do you resolve it?
+
+---
+
+2. GitHub / GitLab
+
+What is the difference between Git and GitHub/GitLab?
+
+What is a remote repository?
+
+How do you clone a repository from GitHub/GitLab?
+
+What is a Pull Request (PR)?
+
+Have you created or contributed to any project on GitHub/GitLab?
+
+What are branches and why are they used?
+
+---
+
+3. Jenkins
+
+What is Jenkins and how is it useful in DevOps?
+
+What is a Jenkins pipeline?
+
+What is the role of plugins in Jenkins?
+
+How do you trigger a build in Jenkins?
+
+Can Jenkins integrate with GitHub? If yes, how?
+
+---
+
+4. Docker
+
+What is Docker and why is it popular in DevOps?
+
+What is the difference between a container and a virtual machine?
+
+What is a Dockerfile?
+
+How do you run a container using Docker?
+
+What command is used to list running containers?
+
+---
+
+5. Ansible
+
+What is Ansible and what is it used for?
+
+What is an Ansible playbook?
+
+How is Ansible agentless?
+
+What is the inventory file in Ansible?
+
+Have you written or executed any simple playbook?
+
+---
+
+Generic Questions
+
+What is the purpose of using version control systems?
+
+How do DevOps practices help in software development?
+
+What is CI/CD in simple terms?
+
+Can you explain the workflow of your practical project?
